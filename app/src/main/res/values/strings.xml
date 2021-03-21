@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Lab04</string>
+    <string name="button_width_height">50</string>
 </resources>
